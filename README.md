@@ -64,10 +64,11 @@ The trained CNN model demonstrates effective classification performance on the C
 
 ## Project Structure
 
+```
 CIFAR10_CNN_Project/
-│── CIFAR-10 CNN.ipynb
-│── README.md
-
+├── CIFAR-10 CNN.ipynb   # Main notebook containing CNN implementation, training, and evaluation
+└── README.md            # Project documentation and usage instructions
+```
 
 ---
 
